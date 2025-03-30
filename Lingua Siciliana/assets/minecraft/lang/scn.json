@@ -226,6 +226,7 @@
   "advancements.nether.uneasy_alliance.title": "Allianza 'mmarazzanti",
   "advancements.nether.use_lodestone.description": "Usa na Bussula supra na Magnetiti",
   "advancements.nether.use_lodestone.title": "Arricogghimentu Magneticu",
+								   
   "advancements.sad_label": ":(",
   "advancements.story.cure_zombie_villager.description": "Fracchia e poi cura nu Viḍḍanu Mortuvivu",
   "advancements.story.cure_zombie_villager.title": "Dutturi Mortuvivu",
@@ -376,10 +377,10 @@
   "argument.range.swapped": "Min 'un po jèssiri chiù magnu di max",
   "argument.resource_or_id.failed_to_parse": "Nun potti analizzari a struttura: %s",
   "argument.resource_or_id.invalid": "Id o tichetta nun validi",
-  "argument.resource_selector.not_found": "No matches for selector '%s' of type '%s'",
+  "argument.resource_selector.not_found": "Nenti accumigghiamenti pi l'addijiuturi '%s' dû tipu '%s'",
   "argument.resource_tag.invalid_type": "A tichetta '%s' àvi u tipu '%s' sbagghiatu (n'aspittammu '%s')",
   "argument.resource_tag.not_found": "Nun potti truvari a tichetta '%s' dû tipu '%s'",
-  "argument.resource.invalid_type": "L'elementum'%s' àvi u tipu  '%s' sbagghiatu (n'aspittammu '%s')",
+  "argument.resource.invalid_type": "L'elementu '%s' àvi u tipu '%s' sbagghiatu (n'aspittammu '%s')",
   "argument.resource.not_found": "Nun potti truvari l'elementu '%s' dû tipu '%s'",
   "argument.rotation.incomplete": "Incompletu (n'aspittammu 2 coordinati)",
   "argument.scoreboardDisplaySlot.invalid": "'Ngagghiu dâ mustra scognitu '%s'",
@@ -387,7 +388,7 @@
   "argument.style.invalid": "Stili nun validu: %s",
   "argument.time.invalid_tick_count": "U contu dî Ticchi àvi a jèssiri nun-negativu",
   "argument.time.invalid_unit": "Unità nun valida",
-  "argument.time.tick_count_too_low": "Contu dî Ticchi 'un po' jèssiri chiù picca di %s, %s truvatu fu",
+  "argument.time.tick_count_too_low": "U contu dî Ticchi 'un po' jèssiri chiù picca di %s, %s truvatu fu",
   "argument.uuid.invalid": "UUID nun validu",
   "arguments.block.tag.unknown": "Tichetta di bloccu '%s' scognita",
   "arguments.function.tag.unknown": "Tichetta di funziuni '%s' scognita",
@@ -410,6 +411,15 @@
   "arguments.operation.div0": "Nun po' spartiri pi zeru",
   "arguments.operation.invalid": "Operazziuni nun valida",
   "arguments.swizzle.invalid": "Cumminaziuni d'assi nun valida, n'aspittammu na cumminaziuni di 'x', 'y' e 'z'",
+										 
+										   
+										   
+										
+										  
+										  
+										
+										  
+										  
   "attribute.name.armor": "Armatura",
   "attribute.name.armor_toughness": "Durizza d'Armatura",
   "attribute.name.attack_damage": "Dammaggiu d'Attaccu",
@@ -2349,6 +2359,7 @@
   "chat_screen.usage": "Scrivi u missaggiu e uncia mmiù pi 'mmiari",
   "chat.cannotSend": "Nun po' 'mmiari u missaggiu",
   "chat.coordinates.tooltip": "Uncia pi telecarriari",
+												  
   "chat.copy": "Cupia ô Ciappafogghiu",
   "chat.copy.click": "Uncia pi Cupiari ô Ciappafogghiu",
   "chat.deleted_marker": "U sirburi canciḍḍavu chistu missaggiu dâ chat.",
@@ -2362,6 +2373,7 @@
   "chat.disabled.out_of_order_chat": "Chat pigghiata 'n ordini sbagghiatu. Canciau u tò tempo di sistema?",
   "chat.disabled.profile": "Chat not allowed by account settings. Press '%s' again for more information.",
   "chat.disabled.profile.moreInfo": "Chat not allowed by account settings. Cannot send or view messages.",
+						 
   "chat.filtered": "Filtratu dû Sirburi.",
   "chat.filtered_full": "U sirburi àvi ammucciatu u tò missaggiu pi quarchi jucatura.",
   "chat.link.confirm": "Si sicuru ca voli grapiri stu situ web?",
@@ -2369,15 +2381,22 @@
   "chat.link.open": "Grapi ntô Browser",
   "chat.link.warning": "Nun grapiri mai lijami da cristiani di cu nun ti firi!",
   "chat.queue": "[+%s linira ca aspittanu]",
+								 
   "chat.tag.error": "U Sirburi 'mmiavu nu missaggiu nun validu.",
   "chat.tag.modified": "Missaggiu mudificatu dô sirburi. Uriginali:",
   "chat.tag.not_secure": "Missaggiu nun virificatu. Nun po' jèssiri signalatu.",
   "chat.tag.system": "Missaggiu dû Sirburi. Nun po' jèssiri signalatu.",
   "chat.tag.system_single_player": "Missaggiu dû Sirburi.",
+								
   "chat.type.advancement.challenge": "%s cumpletavu a disfida %s",
   "chat.type.advancement.goal": "%s abbinnivu ô ’ntraguardu %s",
   "chat.type.advancement.task": "%s fici u prugressu %s",
+									  
+							   
   "chat.type.team.hover": "Missaggia a Squatra",
+										 
+									  
+							  
   "chat.type.text.narrate": "%s dici %s",
   "chat.validation_error": "Erruri ntâ validaziuni dâ Chat",
   "chunk.toast.checkLog": "Talìa u diariu pi chiù dettagghi",
@@ -2586,25 +2605,25 @@
   "commands.fill.success": "Riniscivu a inchiri %s blocca",
   "commands.fill.toobig": "Troppi blocca intra l'area addisiata (massimu $s, addisiatu $s)",
   "commands.fillbiome.success": "Biomi 'mpustati tra %s, %s, %s e %s, %s, %s",
-  "commands.fillbiome.success.count": "%s biome entry/entries set between %s, %s, %s and %s, %s, %s",
-  "commands.fillbiome.toobig": "Too many blocks in the specified volume (maximum %s, specified %s)",
-  "commands.forceload.added.failure": "No chunks were marked for force loading",
-  "commands.forceload.added.multiple": "Marked %s chunks in %s from %s to %s to be force loaded",
-  "commands.forceload.added.none": "No force loaded chunks were found in %s",
-  "commands.forceload.added.single": "Marked chunk %s in %s to be force loaded",
-  "commands.forceload.list.multiple": "%s force loaded chunks were found in %s at: %s",
-  "commands.forceload.list.single": "A force loaded chunk was found in %s at: %s",
-  "commands.forceload.query.failure": "Chunk at %s in %s is not marked for force loading",
-  "commands.forceload.query.success": "Chunk at %s in %s is marked for force loading",
-  "commands.forceload.removed.all": "Unmarked all force loaded chunks in %s",
-  "commands.forceload.removed.failure": "No chunks were removed from force loading",
-  "commands.forceload.removed.multiple": "Unmarked %s chunks in %s from %s to %s for force loading",
-  "commands.forceload.removed.single": "Unmarked chunk %s in %s for force loading",
-  "commands.forceload.toobig": "Too many chunks in the specified area (maximum %s, specified %s)",
-  "commands.function.error.argument_not_compound": "Invalid argument type: %s, expected Compound",
+  "commands.fillbiome.success.count": "%s valuri di bioma 'mpustati tra %s, %s, %s e %s, %s, %s",
+  "commands.fillbiome.toobig": "Troppi blocca intra u vulumi addisiatu (massimu %s, addisiatu %s)",
+  "commands.forceload.added.failure": "Nenti chunk forru marcati dô carricamentu furzatu",
+  "commands.forceload.added.multiple": "Marcati %s chunk 'n %s da %s a %s pi jèssiri carricati furzatamenti",
+  "commands.forceload.added.none": "Nenti chunk carricati furzatamenti forru truvati 'n %s",
+  "commands.forceload.added.single": "Marcati chunk %s 'n %s pi jèssiri carricati furzatamenti",
+  "commands.forceload.list.multiple": "Forru truvati %s chunk carricati furzatamenti 'n %s a: %s",
+  "commands.forceload.list.single": "Un chunk carricatu furzatamenti fu truvatu 'n %s a: %s",
+  "commands.forceload.query.failure": "U chunk a %s 'n %s nun jè marcatu pô carricamentu furzatu",
+  "commands.forceload.query.success": "U chunk a %s 'n %s jè marcatu pô carricamentu furzatu",
+  "commands.forceload.removed.all": "Smarcati tutti i chunk carricati furzatamenti 'n %s",
+  "commands.forceload.removed.failure": "Nenti chunk forru livati dô carricamentu furzatu",
+  "commands.forceload.removed.multiple": "Smarcati %s chunk 'n %s da %s a %s pô carricamentu furzatu",
+  "commands.forceload.removed.single": "Smarcatu chunk %s 'n %s pô carricamentu furzatu",
+  "commands.forceload.toobig": "Troppi chunk intra l'area addisiata (massimu %s, addisiatu %s)",
+  "commands.function.error.argument_not_compound": "Tipu d'argumentu nun validu: %s, n'aspittammu nu Cumpositu",
   "commands.function.error.missing_argument": "Manca l'argumenti %2$s â funziuni %1$s",
   "commands.function.error.missing_arguments": "Mancanu argumenti â funziuni %s",
-  "commands.function.error.parse": "While instantiating macro %s: Command '%s' caused error: %s",
+  "commands.function.error.parse": "Mentri s'istanziava a macro %s: U cumannu '%s' 'mmattiu n'erruri: %s",
   "commands.function.instantiationFailure": "Nun potti istanziari a funziuni %s: %s",
   "commands.function.result": "Funzioni %s resi %s",
   "commands.function.scheduled.multiple": "Esecuennu i funziuna %s",
@@ -2640,6 +2659,7 @@
   "commands.kick.success": "Mannatu %s: %s",
   "commands.kill.success.multiple": "Ammazzati %s entità",
   "commands.kill.success.single": "Ammazzatu %s",
+									   
   "commands.list.players": "Ci su' %s di nu massimu di %s jucatura online: %s",
   "commands.locate.biome.not_found": "Nun potti truvari nu bioma dû tipu \"%s\" intra na distanza raggiunevuli",
   "commands.locate.biome.success": "U %s chiû vicinu jè a %s (%s blocca luntanu)",
@@ -2754,6 +2774,7 @@
   "commands.scoreboard.players.list.empty": "Nun ci stannu entità tracciati",
   "commands.scoreboard.players.list.entity.empty": "%s nun àvi punteggi d'ammustrari",
   "commands.scoreboard.players.list.entity.success": "%s àvi %s punteggi(u):",
+																		   
   "commands.scoreboard.players.list.success": "Ci stannu %s entità tracciati: %s",
   "commands.scoreboard.players.operation.success.multiple": "Attualizzatu %s pi %s entità",
   "commands.scoreboard.players.operation.success.single": "'mpustatu %s pi %s a %s",
@@ -2804,30 +2825,30 @@
   "commands.tag.remove.success.single": "Livata tichetta '%s' da %s",
   "commands.team.add.duplicate": "Na squatra esisti comora cu ḍḍu nnomu",
   "commands.team.add.success": "Criata a squatra %s",
-  "commands.team.empty.success": "Removed %s member(s) from team %s",
-  "commands.team.empty.unchanged": "Nothing changed. That team is already empty",
-  "commands.team.join.success.multiple": "Added %s members to team %s",
-  "commands.team.join.success.single": "Added %s to team %s",
-  "commands.team.leave.success.multiple": "Removed %s members from any team",
-  "commands.team.leave.success.single": "Removed %s from any team",
-  "commands.team.list.members.empty": "There are no members on team %s",
-  "commands.team.list.members.success": "Team %s has %s member(s): %s",
-  "commands.team.list.teams.empty": "There are no teams",
-  "commands.team.list.teams.success": "There are %s team(s): %s",
-  "commands.team.option.collisionRule.success": "Collision rule for team %s is now \"%s\"",
-  "commands.team.option.collisionRule.unchanged": "Nothing changed. Collision rule is already that value",
-  "commands.team.option.color.success": "Updated the color for team %s to %s",
-  "commands.team.option.color.unchanged": "Nothing changed. That team already has that color",
-  "commands.team.option.deathMessageVisibility.success": "Death message visibility for team %s is now \"%s\"",
-  "commands.team.option.deathMessageVisibility.unchanged": "Nothing changed. Death message visibility is already that value",
-  "commands.team.option.friendlyfire.alreadyDisabled": "Nothing changed. Friendly fire is already disabled for that team",
-  "commands.team.option.friendlyfire.alreadyEnabled": "Nothing changed. Friendly fire is already enabled for that team",
-  "commands.team.option.friendlyfire.disabled": "Disabled friendly fire for team %s",
-  "commands.team.option.friendlyfire.enabled": "Enabled friendly fire for team %s",
-  "commands.team.option.name.success": "Updated the name of team %s",
-  "commands.team.option.name.unchanged": "Nothing changed. That team already has that name",
-  "commands.team.option.nametagVisibility.success": "Nametag visibility for team %s is now \"%s\"",
-  "commands.team.option.nametagVisibility.unchanged": "Nothing changed. Nametag visibility is already that value",
+  "commands.team.empty.success": "Livati %s membri dâ squatra %s",
+  "commands.team.empty.unchanged": "Nenti canciavu. Ḍḍa squatra jè comora vacanti",
+  "commands.team.join.success.multiple": "Junciuti %s membri â squatra %s",
+  "commands.team.join.success.single": "Junciutu %s â squatra %s",
+  "commands.team.leave.success.multiple": "Livati %s membri di ugni squatra",
+  "commands.team.leave.success.single": "Livatu %s di ugni squatra",
+  "commands.team.list.members.empty": "Nun ci sunnu membri ntâ squatra %s",
+  "commands.team.list.members.success": "A squatra %s àvi %s membri: %s",
+  "commands.team.list.teams.empty": "Nun ci stannu squatri",
+  "commands.team.list.teams.success": "Ci stannu %s squatri: %s",
+  "commands.team.option.collisionRule.success": "A regula di Ammuttamentu pâ squatra %s jè aora \"%s\"",
+  "commands.team.option.collisionRule.unchanged": "Nenti canciavu. A regula di Ammuttamentu jè comora di ḍḍu valuri",
+  "commands.team.option.color.success": "Attualizzatu u culuri dâ squatra %s a %s",
+  "commands.team.option.color.unchanged": "Nenti canciavu. Ḍḍa squatra àvi comora ḍḍu culuri",
+  "commands.team.option.deathMessageVisibility.success": "A visibbilità dû missaggiu di Morti pâ squatra %s jè aora \"%s\"",
+  "commands.team.option.deathMessageVisibility.unchanged": "Nenti canciavu. A visibbilità dû missaggiu di Morti jè comora di ḍḍu valuri",
+  "commands.team.option.friendlyfire.alreadyDisabled": "Nenti canciavu. U focu amicu jè comora stutatu pi ḍḍa squatra",
+  "commands.team.option.friendlyfire.alreadyEnabled": "Nenti canciavu. U focu amicu jè comora aḍḍumatu pi ḍḍa squatra",
+  "commands.team.option.friendlyfire.disabled": "Stutatu u focu amicu pâ squatra %s",
+  "commands.team.option.friendlyfire.enabled": "Aḍḍumatu u focu amicu pâ squatra %s",
+  "commands.team.option.name.success": "Attualizzatu u nnomu dâ squatra %s",
+  "commands.team.option.name.unchanged": "Nenti canciavu. Ḍḍa squatra àvi comora ḍḍu nnomu",
+  "commands.team.option.nametagVisibility.success": "A visibbilità dû nnomu pâ squatra %s jè aora \"%s\"",
+  "commands.team.option.nametagVisibility.unchanged": "Nenti canciavu. A visibbilità dû nnomu jè comora di ḍḍu valuri",
   "commands.team.option.prefix.success": "Prefissu dâ squatra 'mpustatu a %s",
   "commands.team.option.seeFriendlyInvisibles.alreadyDisabled": "Nenti canciavu. Ḍḍa squatra comora nun po' vidiri cumpagnî squatra invisibbili",
   "commands.team.option.seeFriendlyInvisibles.alreadyEnabled": "Nenti canciavu. Ḍḍa squatra comora poti vidiri cumpagnî squatra invisibbili",
@@ -2844,6 +2865,7 @@
   "commands.test.batch.starting": "Accuminzannu ammienti %s processu %s",
   "commands.test.clear.error.no_tests": "Nun potti truvari assaira da sbarattari",
   "commands.test.clear.success": "Sbarattati i strutturi %s",
+											
   "commands.test.coordinates.copy": "Uncia pi cupiari ntô ciappafogghiu",
   "commands.test.create.success": "Criata cunfiguraziuni d'assaiu pi l'assaiu %s",
   "commands.test.error.no_test_containing_pos": "Nun potti truvari n'istanza d'assaiu ca cunteni %s, %s, %s",
@@ -2965,6 +2987,7 @@
   "container.dropper": "Jittaturi",
   "container.enchant": "Ammaga",
   "container.enchant.lapis.many": "%s Lapislàzzari",
+													
   "container.enchant.lapis.one": "1 Lapislàzzaru",
   "container.enchant.level.many": "%s Liveḍḍa d'Ammagatura",
   "container.enchant.level.one": "1 Liveḍḍu d'Ammagatura",
@@ -2982,6 +3005,8 @@
   "container.repair.expensive": "Costa troppu assai!",
   "container.shulkerBox": "Scàtulu di Shulker",
   "container.shulkerBox.more": "e %s autri...",
+												
+													
   "container.smoker": "Affumaturi",
   "container.spectatorCantOpen": "Nun si poti grapiri. U bottinu nun vinìu giniratu pi ora.",
   "container.stonecutter": "Tagghiapetri",
@@ -2997,6 +3022,7 @@
   "createWorld.customize.buffet.biome": "Pi favuri scigghi nu bioma",
   "createWorld.customize.buffet.title": "Pirsunalizzaziuni dû Monobioma",
   "createWorld.customize.flat.height": "Autizza",
+										   
   "createWorld.customize.flat.layer.bottom": "Sutta - %s",
   "createWorld.customize.flat.layer.top": "Supra - %s",
   "createWorld.customize.flat.removeLayer": "Togghi stratu",
@@ -3048,8 +3074,8 @@
   "death.attack.badRespawnPoint.message": "%1$s vinìu ammazzatu da %2$s",
   "death.attack.cactus": "%1$s fu picatu a morti",
   "death.attack.cactus.player": "%1$s caminavu supra nu cattu pruvandu a fujiri da %2$s",
-  "death.attack.cramming": "%1$s was squished too much",
-  "death.attack.cramming.player": "%1$s was squashed by %2$s",
+  "death.attack.cramming": "%1$s vinìu scafazzatu",
+  "death.attack.cramming.player": "%1$s vinìu scafazzatu da %2$s",
   "death.attack.dragonBreath": "%1$s fu rustutu dô sciatu di draguni",
   "death.attack.dragonBreath.player": "%1$s fu rustutu dô sciatu di draguni da %2$s",
   "death.attack.drown": "%1$s annigau",
@@ -3057,20 +3083,20 @@
   "death.attack.dryout": "%1$s mossi di siti",
   "death.attack.dryout.player": "%1$s mossi di siti namentri circava di fujiri da %2$s",
   "death.attack.even_more_magic": "%1$s vinivu ammazzatu da chiù maggia",
-  "death.attack.explosion": "%1$s blew up",
-  "death.attack.explosion.player": "%1$s was blown up by %2$s",
-  "death.attack.explosion.player.item": "%1$s was blown up by %2$s using %3$s",
+  "death.attack.explosion": "%1$s scattavu",
+  "death.attack.explosion.player": "%2$s fici scattari %1$s",
+  "death.attack.explosion.player.item": "%2$s fici scattari %1$s cu %3$s",
   "death.attack.fall": "%1$s curpivu u tirrenu troppu forti",
   "death.attack.fall.player": "%1$s curpivu u tirrenu troppu forti namentri circava di fujiri da %2$s",
   "death.attack.fallingBlock": "%1$s fu scravazzatu da nu bloccu 'n caduta",
   "death.attack.fallingBlock.player": "%1$s fu scravazzatu da nu bloccu 'n caduta namentri cummattiva cu %2$s",
-  "death.attack.fallingStalactite": "%1$s was skewered by a falling stalactite",
-  "death.attack.fallingStalactite.player": "%1$s was skewered by a falling stalactite while fighting %2$s",
-  "death.attack.fireball": "%1$s was fireballed by %2$s",
-  "death.attack.fireball.item": "%1$s was fireballed by %2$s using %3$s",
-  "death.attack.fireworks": "%1$s went off with a bang",
-  "death.attack.fireworks.item": "%1$s went off with a bang due to a firework fired from %3$s by %2$s",
-  "death.attack.fireworks.player": "%1$s went off with a bang while fighting %2$s",
+  "death.attack.fallingStalactite": "%1$s vinìu 'mpalatu da na petra di lammicu caduta",
+  "death.attack.fallingStalactite.player": "%1$s vinìu 'mpalatu da na petra di lammicu caduta namentri cummattiva cu %2$s",
+  "death.attack.fireball": "%1$s vinìu pigghiatu a baḍḍunati di focu da %2$s",
+  "death.attack.fireball.item": "%1$s vinìu pigghiatu a baḍḍunati di focu da %2$s cu %3$s",
+  "death.attack.fireworks": "%1$s fici nu bottu",
+  "death.attack.fireworks.item": "%1$s  fici nu bottu pi curpa di nu carrittigghiu jittatu da %3$s di %2$s",
+  "death.attack.fireworks.player": "%1$s fici nu bottu namentri cummattiva cu %2$s",
   "death.attack.flyIntoWall": "%1$s sintivu l'energia chinetica",
   "death.attack.flyIntoWall.player": "%1$s sintivu l'energia chinetica namentri circava di fujiri da %2$s",
   "death.attack.freeze": "%1$s mossi jilatu",
@@ -3119,28 +3145,28 @@
   "death.attack.sting.player": "%1$s murivu punciutu da %2$s",
   "death.attack.sweetBerryBush": "%1$s murivu punciutu da n'arbustu di cocci duci",
   "death.attack.sweetBerryBush.player": "%1$s murivu punciutu da n'arbustu di cocci duci namentri 'nzajavu a fujiri da %2$s",
-  "death.attack.thorns": "%1$s was killed while trying to hurt %2$s",
-  "death.attack.thorns.item": "%1$s was killed by %3$s while trying to hurt %2$s",
-  "death.attack.thrown": "%1$s was pummeled by %2$s",
-  "death.attack.thrown.item": "%1$s was pummeled by %2$s using %3$s",
+  "death.attack.thorns": "%1$s vinìu ammazzatu namentri curpiva %2$s",
+  "death.attack.thorns.item": "%1$s vinìu ammazzatu da %3$s wnamentri curpiva %2$s",
+  "death.attack.thrown": "%1$s vinìu cafuddatu da %2$s",
+  "death.attack.thrown.item": "%1$s vinìu cafuddatu da %2$s cu %3$s",
   "death.attack.trident": "%1$s fu 'mpalatu da %2$s",
   "death.attack.trident.item": "%1$s fu 'mpalatu da %2$s cu %3$s",
   "death.attack.wither": "%1$s scammuscìu",
   "death.attack.wither.player": "%1$s scammuscìu 'namentri cummattiva cu %2$s",
   "death.attack.witherSkull": "%1$s fu curpitu cu na crozza da %2$s",
   "death.attack.witherSkull.item": "%1$s fu curpitu cu na crozza da %2$s cu %3$s",
-  "death.fell.accident.generic": "%1$s carìu da nu postu jautu",
-  "death.fell.accident.ladder": "%1$s carìu da na scaliceḍḍa",
-  "death.fell.accident.other_climbable": "%1$s carìu namentri si appiccicava",
-  "death.fell.accident.scaffolding": "%1$s carìu da na 'nzirratizzatura",
-  "death.fell.accident.twisting_vines": "%1$s carìu da quarchi rampicanti scuntorciuti",
-  "death.fell.accident.vines": "%1$s carìù da quarchi arèddara",
-  "death.fell.accident.weeping_vines": "%1$s cariù da quarchi rampicanti chiancinti",
-  "death.fell.assist": "%1$s sciurtìa di cadiri pi curpa di %2$s",
-  "death.fell.assist.item": "%1$s sciurtìa di cadiri pi curpa di %2$s cu %3$s",
-  "death.fell.finish": "%1$s cadivu troppu luntanu e vinivu finitu da %2$s",
-  "death.fell.finish.item": "%1$s cadivu troppu luntanu e vinivu finitu da %2$s cu %3$s",
-  "death.fell.killer": "%1$s sciurtìa di cadiri",
+  "death.fell.accident.generic": "%1$s scuppau da nu postu jautu",
+  "death.fell.accident.ladder": "%1$s scuppau da na scaliceḍḍa",
+  "death.fell.accident.other_climbable": "%1$s scuppau namentri si appiccicava",
+  "death.fell.accident.scaffolding": "%1$s scuppau da na 'nzirratizzatura",
+  "death.fell.accident.twisting_vines": "%1$s scuppau da quarchi rampicanti scuntorciuti",
+  "death.fell.accident.vines": "%1$s scuppau da quarchi arèddara",
+  "death.fell.accident.weeping_vines": "%1$s scuppau da quarchi rampicanti chiancinti",
+  "death.fell.assist": "%1$s sciurtìa di scuppari pi curpa di %2$s",
+  "death.fell.assist.item": "%1$s sciurtìa di scuppari pi curpa di %2$s cu %3$s",
+  "death.fell.finish": "%1$s scuppau troppu luntanu e vinivu finitu da %2$s",
+  "death.fell.finish.item": "%1$s scuppau troppu luntanu e vinivu finitu da %2$s cu %3$s",
+  "death.fell.killer": "%1$s sciurtìa di scuppari",
   "deathScreen.quit.confirm": "Si sicuru di chiujiri?",
   "deathScreen.respawn": "Rinasci",
   "deathScreen.score": "Punteggiu",
@@ -3161,11 +3187,12 @@
   "debug.crash.message": "F3 + C tinutu jè. Chistu manna u jocu 'n crash si nun jè lassatu.",
   "debug.crash.warning": "Crash 'n %s...",
   "debug.creative_spectator.error": "Nun potti canciari mudalità di jocu; nun jè permisu",
-  "debug.creative_spectator.help": "F3 + N = Cycle previous game mode <-> spectator",
+  "debug.creative_spectator.help": "F3 + N = Passa â mudalità di jocu nnarrè <-> spettaturi",
   "debug.dump_dynamic_textures": "Sarbati i texture dinamici 'n %s",
   "debug.dump_dynamic_textures.help": "F3 + S = Sdivaca grafici dinamici",
   "debug.gamemodes.error": "Nun potti grapiri u scanciaturi di mudalità di jocu; nun jè permisu",
   "debug.gamemodes.help": "F3 + F4 = Grapi scanciaturi di mudalità di jocu",
+									   
   "debug.gamemodes.select_next": "%s Entranti",
   "debug.help.help": "F3 + Q = Ammustra sta lista",
   "debug.help.message": "Buttuna lijati:",
@@ -3178,6 +3205,7 @@
   "debug.pause_focus.off": "Pausa a focu pessu: stutatu",
   "debug.pause_focus.on": "Pausa a focu pessu: aḍḍumatu",
   "debug.pause.help": "F3 + Esc = Pausa sinza minù dâ pausa (si pussibbili jè mettiri 'n pausa)",
+							 
   "debug.profiling.help": "F3 + L = Accuminza/firma u prufilari",
   "debug.profiling.start": "Accuminzata a prufilaziuni pi %s sicunna. Usa F3 + L pi finiri prima",
   "debug.profiling.stop": "Finivu a prufilaziuni. Risultati sarbati 'n %s",
@@ -3211,6 +3239,7 @@
   "difficulty.lock.title": "Blucca Difficurtà dû Munnu",
   "disconnect.endOfStream": "Fini dô ciumi",
   "disconnect.exceeded_packet_rate": "Mannatu pi aviri superatu u limiti di ritmu di pachetti",
+								   
   "disconnect.ignoring_status_request": "Ignorannu a dumanna di statu",
   "disconnect.loginFailedInfo": "Nun potti trasiri: %s",
   "disconnect.loginFailedInfo.insufficientPrivileges": "Murtijucaturi jè stutatu. Pi fauri talìa i tò 'mpustazziuna dô cuntu Microsoft.",
@@ -3227,7 +3256,9 @@
   "download.pack.progress.bytes": "Prugressu: %s (dimensiuni tutali scognita)",
   "download.pack.progress.percent": "Prugressu: %s%%",
   "download.pack.title": "Scarricandu u pachettu di risursi %s/%s",
+										
   "editGamerule.title": "Cancia i reguli dû jocu",
+									
   "effect.minecraft.absorption": "Assurbimentu",
   "effect.minecraft.bad_omen": "Mala Nova",
   "effect.minecraft.blindness": "Cicatizza",
@@ -3268,6 +3299,16 @@
   "effect.minecraft.wind_charged": "Carricatu dô Ventu",
   "effect.minecraft.wither": "Scammuscimentu",
   "effect.none": "Nuḍḍu Effettu",
+							 
+							  
+							   
+							  
+							 
+							  
+							   
+								
+							  
+							  
   "enchantment.minecraft.aqua_affinity": "Affinità a l'Acqua",
   "enchantment.minecraft.bane_of_arthropods": "Flagellu di l'Insetti",
   "enchantment.minecraft.binding_curse": "Mardizziuni dâ caggia",
@@ -3526,6 +3567,7 @@
   "filled_map.buried_treasure": "Mappa dâ Truvatura",
   "filled_map.explorer_jungle": "Mappa dû Caìccu dâ Jungla",
   "filled_map.explorer_swamp": "Mappa dû Caìccu dû Margiu",
+							
   "filled_map.level": "(Liveḍḍu %s/%s)",
   "filled_map.locked": "Bloccatu",
   "filled_map.mansion": "Mappa dû Caìccu dâ Furesta",
@@ -3547,6 +3589,7 @@
   "flat_world_preset.minecraft.the_void": "U Vacanti",
   "flat_world_preset.minecraft.tunnelers_dream": "Sonnu dû Scavaturi",
   "flat_world_preset.minecraft.water_world": "Munnu d'Acqua",
+									 
   "gameMode.adventure": "Mudalità Vintura",
   "gameMode.changed": "A tò mudalità di jocu canciau a %s",
   "gameMode.creative": "Mudalità Criativa",
@@ -3558,6 +3601,7 @@
   "gamerule.announceAdvancements": "Bannìa prugressi",
   "gamerule.blockExplosionDropDecay": "'n esplosiuni da 'ntirazziuna chî blocca, quarchi bloccu nun cutula uggetti",
   "gamerule.blockExplosionDropDecay.description": "Quarchi cutulata dî blocca distrutti dâ esplosiuna causati da 'ntirazziuna chî blocca si perdunu ntâ esplosiuni.",
+								   
   "gamerule.category.drops": "Residui",
   "gamerule.category.misc": "Autri",
   "gamerule.category.mobs": "Criaturi",
@@ -3693,6 +3737,7 @@
   "gui.abuseReport.reason.hate_speech.description": "Quarchidunu stapi attaccandu a tia o n'autru jucaturi pi carattaristichi dâ identità, comu religiuni, razza o sessualità.",
   "gui.abuseReport.reason.imminent_harm": "Amminazzi di firiri autri",
   "gui.abuseReport.reason.imminent_harm.description": "Quarchidunu stapi amminazzandu di firiri a tia o quarcunautru ntâ vita reali.",
+											   
   "gui.abuseReport.reason.non_consensual_intimate_imagery": "Immagini intimi nun-cunsensuali",
   "gui.abuseReport.reason.non_consensual_intimate_imagery.description": "Quarchidunu stapi parrannu ncapu a, spartendu o promovendu immagini privati e intimi.",
   "gui.abuseReport.reason.self_harm_or_suicide": "Autofirimentu o suicidiu",
@@ -3781,6 +3826,7 @@
   "gui.chatSelection.context": "I missaggi ca cinciunu chista addijiuta sunnu inclusi pi dari chiù cuntestu",
   "gui.chatSelection.fold": "%s missaggi ammucciati",
   "gui.chatSelection.join": "%s trasìu ntâ chat",
+												 
   "gui.chatSelection.message.narrate": "%s dissi: %s a %s",
   "gui.chatSelection.selected": "%s/%s missaggi addijiuti",
   "gui.chatSelection.title": "Addiji Missaggi dâ Chat da Signalari",
@@ -3795,14 +3841,18 @@
   "gui.hours": "%s ura",
   "gui.loadingMinecraft": "Carricandu Minecraft",
   "gui.minutes": "%s minutu/a",
+												  
   "gui.narrate.button": "buttuni %s",
   "gui.narrate.editBox": "%s campu di mudifica: %s",
   "gui.narrate.slider": "%s sciddicaturi",
   "gui.narrate.tab": "%s paggina",
+				 
   "gui.none": "Nuḍḍu",
+				 
   "gui.open_report_dir": "Grapi Carpetta dî Signalaziuna",
   "gui.proceed": "Avanti",
   "gui.recipebook.moreRecipes": "Uncia Tastu Drittu pi autru",
+								 
   "gui.recipebook.search_hint": "Circa...",
   "gui.recipebook.toggleRecipes.all": "Ammustra tutti",
   "gui.recipebook.toggleRecipes.blastable": "Cosi fusìbbili",
@@ -3932,6 +3982,7 @@
   "item.minecraft.bundle.empty": "Vacanti",
   "item.minecraft.bundle.empty.description": "Po' teniri nu munzeḍḍu miscatu d'uggetti",
   "item.minecraft.bundle.full": "China",
+											
   "item.minecraft.burn_pottery_shard": "Ciaramita dû Abbruscamentu",
   "item.minecraft.burn_pottery_sherd": "Ciaramita dû Abbruscamentu",
   "item.minecraft.camel_spawn_egg": "Ovu Ginirativu di Drumidariu",
@@ -4038,6 +4089,8 @@
   "item.minecraft.firework_rocket": "Carrittigghiu",
   "item.minecraft.firework_rocket.flight": "Durata di Volu:",
   "item.minecraft.firework_star": "Stiḍḍa pi Carrittigghiu",
+													 
+												  
   "item.minecraft.firework_star.black": "Nivura",
   "item.minecraft.firework_star.blue": "Blu",
   "item.minecraft.firework_star.brown": "Marruni",
@@ -4220,24 +4273,43 @@
   "item.minecraft.mule_spawn_egg": "Ovu Ginirativu di Màcciu",
   "item.minecraft.mushroom_stew": "Suppa di Fùnci",
   "item.minecraft.music_disc_5": "Discu di mùsica",
+														  
   "item.minecraft.music_disc_11": "Discu di mùsica",
   "item.minecraft.music_disc_13": "Discu di mùsica",
+											   
+												   
   "item.minecraft.music_disc_blocks": "Discu di mùsica",
   "item.minecraft.music_disc_cat": "Discu di mùsica",
+												
   "item.minecraft.music_disc_chirp": "Discu di mùsica",
+												  
   "item.minecraft.music_disc_creator": "Discu di mùsica",
+													
   "item.minecraft.music_disc_creator_music_box": "Discu di mùsica",
+																						 
   "item.minecraft.music_disc_far": "Discu di mùsica",
+												
   "item.minecraft.music_disc_mall": "Discu di mùsica",
+												 
+													   
   "item.minecraft.music_disc_mellohi": "Discu di mùsica",
+															 
   "item.minecraft.music_disc_otherside": "Discu di mùsica",
   "item.minecraft.music_disc_pigstep": "Discu di mùsica",
+													
+																   
   "item.minecraft.music_disc_precipice": "Discu di mùsica",  
+																		 
   "item.minecraft.music_disc_relic": "Discu di mùsica",
+																 
   "item.minecraft.music_disc_stal": "Discu di mùsica",
   "item.minecraft.music_disc_strad": "Discu di mùsica",
+												  
   "item.minecraft.music_disc_wait": "Discu di mùsica",
+												 
   "item.minecraft.music_disc_ward": "Discu di mùsica",
+												 
+													   
   "item.minecraft.mutton": "Carnî Pecura Cruda",
   "item.minecraft.name_tag": "Tichetta",
   "item.minecraft.nautilus_shell": "Scorcia di Nautilus",
@@ -4597,6 +4669,25 @@
   "jigsaw_block.selection_priority": "Priorità di Addijiuta:",
   "jigsaw_block.selection_priority.tooltip": "Quannu u pezzu di partenza jè travagghiatu pi otteniri i cullijamenti, chistu jè l'urdini ca u bloccu Pazzulu 'nzaja a usari pi cullijari u pezzu birsagghiu.\n\nI pazzuli sunnu travagghati 'n priorità calanti chî lijami rutti a muzzu.",
   "jigsaw_block.target": "Nnomu dû Bersàgghiu:",
+												  
+										   
+										   
+												   
+											 
+												 
+														   
+																				 
+											 
+											   
+													 
+															   
+														   
+																 
+														 
+											   
+												 
+											   
+											   
   "key.advancements": "Prugressi",
   "key.attack": "Attacca/Rumpi",
   "key.back": "Camina nn'arrè",
@@ -4623,51 +4714,87 @@
   "key.hotbar.9": "Scigghiuta lesta 9",
   "key.inventory": "Grapi/Chiuji u ventariu",
   "key.jump": "Sauta",
+								 
+								 
   "key.keyboard.backspace": "Backspace",
-  "key.keyboard.caps.lock": "Caps Lock",
+  "key.keyboard.caps.lock": "Bloc Masc",
   "key.keyboard.delete": "Canc",
+								  
   "key.keyboard.down": "Fileccia giù",
   "key.keyboard.end": "Fini",
   "key.keyboard.enter": "Mmiù",
+							
   "key.keyboard.escape": "Esc",
+						  
+						  
+						  
+						  
+						  
+						  
+						  
+						  
+						  
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+								   
   "key.keyboard.home": "Home",
   "key.keyboard.insert": "Ins",
-  "key.keyboard.keypad.0": "Keypad 0",
-  "key.keyboard.keypad.1": "Keypad 1",
-  "key.keyboard.keypad.2": "Keypad 2",
-  "key.keyboard.keypad.3": "Keypad 3",
-  "key.keyboard.keypad.4": "Keypad 4",
-  "key.keyboard.keypad.5": "Keypad 5",
-  "key.keyboard.keypad.6": "Keypad 6",
-  "key.keyboard.keypad.7": "Keypad 7",
-  "key.keyboard.keypad.8": "Keypad 8",
-  "key.keyboard.keypad.9": "Keypad 9",
-  "key.keyboard.keypad.add": "Keypad +",
-  "key.keyboard.keypad.decimal": "Keypad Decimal",
-  "key.keyboard.keypad.divide": "Keypad /",
-  "key.keyboard.keypad.enter": "Keypad Enter",
-  "key.keyboard.keypad.equal": "Keypad =",
-  "key.keyboard.keypad.multiply": "Keypad *",
-  "key.keyboard.keypad.subtract": "Keypad -",
+  "key.keyboard.keypad.0": "Tastereḍḍa 0",
+  "key.keyboard.keypad.1": "Tastereḍḍa 1",
+  "key.keyboard.keypad.2": "Tastereḍḍa 2",
+  "key.keyboard.keypad.3": "Tastereḍḍa 3",
+  "key.keyboard.keypad.4": "Tastereḍḍa 4",
+  "key.keyboard.keypad.5": "Tastereḍḍa 5",
+  "key.keyboard.keypad.6": "Tastereḍḍa 6",
+  "key.keyboard.keypad.7": "Tastereḍḍa 7",
+  "key.keyboard.keypad.8": "Tastereḍḍa 8",
+  "key.keyboard.keypad.9": "Tastereḍḍa 9",
+  "key.keyboard.keypad.add": "Tastereḍḍa +",
+  "key.keyboard.keypad.decimal": "Tastereḍḍa Decimali",
+  "key.keyboard.keypad.divide": "Tastereḍḍa /",
+  "key.keyboard.keypad.enter": "Tastereḍḍa Mmiu",
+  "key.keyboard.keypad.equal": "Tastereḍḍa =",
+  "key.keyboard.keypad.multiply": "Tastereḍḍa *",
+  "key.keyboard.keypad.subtract": "Tastereḍḍa -",
   "key.keyboard.left": "Fileccia Manca",
   "key.keyboard.left.alt": "Alt di Manca",
   "key.keyboard.left.control": "Control di Manca",
+											  
   "key.keyboard.left.shift": "Shift di Manca",
   "key.keyboard.left.win": "Buttuni Win di Manca",
   "key.keyboard.menu": "Minù",
-  "key.keyboard.num.lock": "Num Lock",
+							
+  "key.keyboard.num.lock": "Bloc Num",
   "key.keyboard.page.down": "Pag Giù",
   "key.keyboard.page.up": "Pag Susu",
   "key.keyboard.pause": "Pausa",
+							 
   "key.keyboard.print.screen": "Stamp",
   "key.keyboard.right": "Fileccia Dritta",
   "key.keyboard.right.alt": "Alt di Dritta",
+									
   "key.keyboard.right.control": "Control di Dritta",
   "key.keyboard.right.shift": "Shift di Dritta",
   "key.keyboard.right.win": "Buttuni Win di Dritta",
-  "key.keyboard.scroll.lock": "Scroll Lock",
+  "key.keyboard.scroll.lock": "Bloc Scorr",
+								
+							
   "key.keyboard.space": "Spaziu",
-  "key.keyboard.tab": "Tab",
+							
   "key.keyboard.unknown": "Nun Lijatu",
   "key.keyboard.up": "Fileccia Susu",
   "key.keyboard.world.1": "Munnu 1",
@@ -4714,6 +4841,7 @@
   "lanServer.start": "Grapi Munnu LAN",
   "lanServer.title": "Munnu LAN",
   "lectern.take_book": "Pigghia Libbru",
+							 
   "mco.account.privacy.info": "'Nsignatî chiù ncapu a Mojang e i liggi dâ privacy",
   "mco.account.privacy.info.button": "'Nsignatî chiù ncapu u GDPR",
   "mco.account.privacy.information": "Mojang implements certain procedures to help protect children and their privacy including complying with the Children’s Online Privacy Protection Act (COPPA) and General Data Protection Regulation (GDPR).\n\nYou may need to obtain parental consent before accessing your Realms account.",
@@ -4726,6 +4854,7 @@
   "mco.backup.button.restore": "Ricupera",
   "mco.backup.button.upload": "Carrica Munnu",
   "mco.backup.changes.tooltip": "Canciamenti",
+									
   "mco.backup.entry.description": "Descrizziuni",
   "mco.backup.entry.enabledPack": "Pachetti Abbilitati",
   "mco.backup.entry.gameDifficulty": "Difficurtà di Jocu",
@@ -4884,8 +5013,11 @@
   "mco.download.extracting": "Estraiennu",
   "mco.download.failed": "Scarricamentu fallutu",
   "mco.download.preparing": "Priparannu lu scarricamentu",
+												 
   "mco.download.resourcePack.fail": "Nun potti scarricari pachettu di risursi!",
   "mco.download.title": "Scarrica Urtimu Munnu",
+										 
+												   
   "mco.error.invalid.session.message": "Pi fauri 'nzaja a fari ripartiri Minecraft",
   "mco.error.invalid.session.title": "Sissiuni nun valida",
   "mco.errorMessage.6001": "Client vecchiu",
@@ -4904,9 +5036,11 @@
   "mco.errorMessage.realmsService": "'Mmattìu n'erruri (%s):",
   "mco.errorMessage.realmsService.connectivity": "Nun potti cullijari cu Realms: %s",
   "mco.errorMessage.realmsService.unknownCompatibility": "Nun potti cuntrullari a virsiuni cumpatibbili, appi a rispusta: %s",
+																												
   "mco.errorMessage.retry": "Riprova uperaziuni",
   "mco.errorMessage.serviceBusy": "Realms jè occupatu pi ora.\nPi fauri 'nzaja a cullijariti ô tò Realm attorna doppu nu paru di minuta.",
   "mco.gui.button": "Buttuni",
+					 
   "mco.info": "Infu!",
   "mco.invited.player.narration": "Mmitatu u jucaturi %s",
   "mco.invites.button.accept": "Accitta",
@@ -5022,10 +5156,14 @@
   "mco.upload.cancelled": "Carricamentu sfattu",
   "mco.upload.close.failure": "Could not close your realm, please try again later",
   "mco.upload.done": "Carricamentu finitu",
+										  
+											
   "mco.upload.failed": "Carricamentu fallutu! (%s)",
+											 
   "mco.upload.failed.too_big.description": "U munnu addijiutu jè troppu magnu. A dimensiuni massima pirmissa jè %s.",
   "mco.upload.failed.too_big.title": "Munnu troppu magnu",
   "mco.upload.hardcore": "I munni azzariati nun pozzunu jèssiri carricati!",
+								
   "mco.upload.preparing": "Abbirsannu u tò munnu",
   "mco.upload.select.world.none": "Nun forru truvati munni a monojucaturi!",
   "mco.upload.select.world.subtitle": "Pi fauri addiji nu munnu a monojocaturi da carricari",
@@ -5077,6 +5215,9 @@
   "merchant.level.5": "Maestru",
   "merchant.next_level": "Liveḍḍu entranti dû Mircanti",
   "merchant.trades": "Scanci",
+								 
+								 
+					 
   "mount.onboard": "Uncia %1$s pi Scavaḍḍari",
   "multiplayer.applyingPack": "Applicannu u pachettu di risursi",
   "multiplayer.disconnect.authservers_down": "I sirburi pi l'autenticazziuni su stutatu. Pi fauri 'nzaja attorna chiù tardu, ni dispiaci!",
@@ -5125,6 +5266,7 @@
   "multiplayer.player.joined.renamed": "%s (canusciutu comu %s) si junciu ô jocu",
   "multiplayer.player.left": "%s lassau u jocu",
   "multiplayer.player.list.narration": "Jucatura Online: %s",
+															
   "multiplayer.requiredTexturePrompt.disconnect": "U Sirburi abbisogna di nu pachettu di risursi pirsunalizzatu",
   "multiplayer.requiredTexturePrompt.line1": "Stu sirburi abbisogna di nu pachettu di risursi pirsunalizzatu.",
   "multiplayer.requiredTexturePrompt.line2": "Rifiutari stu pachettu di risursi ti scullija di stu sirburi.",
@@ -5138,12 +5280,16 @@
   "multiplayer.status.motd.narration": "Missaggiu dô jornu: %s",
   "multiplayer.status.no_connection": "(nenti cullijamentu)",
   "multiplayer.status.old": "vicchiu",
+										
+									 
   "multiplayer.status.ping.narration": "Ping %s millisicunna",
   "multiplayer.status.pinging": "Pinging...",
   "multiplayer.status.player_count.narration": "%s di %s jucatura online",
+																			 
   "multiplayer.status.quitting": "Chiujindu",
   "multiplayer.status.request_handled": "A dumanna di statu fu manìata",
   "multiplayer.status.unrequested": "Accanzatu statu nun dumannatu",
+																  
   "multiplayer.status.version.narration": "Virsiuni dû sirburi: %s",
   "multiplayer.stopSleeping": "Susiti dô lettu",
   "multiplayer.texturePrompt.failure.line1": "U pachettu di risursi dû sirburi nun potti jèssiri applicatu",
@@ -5209,6 +5355,8 @@
   "optimizeWorld.info.converted": "Chunk migghiurati: %s",
   "optimizeWorld.info.skipped": "Chunk sautati: %s",
   "optimizeWorld.info.total": "Chunk tutali: %s",
+											  
+											  
   "optimizeWorld.stage.counting": "Contannu i chunks...",
   "optimizeWorld.stage.failed": "Scunchiudivu! :(",
   "optimizeWorld.stage.finished": "Finalizzannu...",
@@ -5235,6 +5383,7 @@
   "options.accessibility.panorama_speed": "Vilucità di scurruta dû Panorama",
   "options.accessibility.text_background": "Sfunnu dû Testu",
   "options.accessibility.text_background_opacity": "Opacità dû Sfunnu dû Testu",
+													   
   "options.accessibility.text_background.everywhere": "Ugnibanni",
   "options.accessibility.title": "'mpustazziuna d'Accissibbilità",
   "options.allowServerListing": "Pirmètti Rolli dû Sirburi",
@@ -5242,6 +5391,7 @@
   "options.ao": "Luci ddiscia",
   "options.ao.max": "Massimu",
   "options.ao.min": "Minimu",
+						  
   "options.attack.crosshair": "Mira",
   "options.attack.hotbar": "Barrammanu",
   "options.attackIndicator": "Indicaturi d'Attaccu",
@@ -5272,6 +5422,7 @@
   "options.chat.scale": "Grannizza dû Testu dâ Chat",
   "options.chat.title": "'mpustazziuna dâ Chat",
   "options.chat.visibility.full": "Visibili",
+										  
   "options.chat.visibility.hidden": "Ammucciatu",
   "options.chat.visibility.system": "Sulu Cumanni",
   "options.chat.width": "Larghizza",
@@ -5312,11 +5463,13 @@
   "options.fov.min": "Nurmali",
   "options.fovEffectScale": "Effetti dû Campu visivu",
   "options.fovEffectScale.tooltip": "Cuntrulla quantu u campu visivu cancia cu l'effetti di jocu.",
+								
   "options.framerateLimit": "Framerate Massimu",
   "options.framerateLimit.max": "Sinza Limiti",
   "options.fullscreen": "Schermu chinu",
   "options.fullscreen.current": "Attuali",
   "options.fullscreen.resolution": "Risuluzziuni a schermu chinu",
+														   
   "options.fullscreen.unavailable": "'Mpustazziuni nun dispunìbbili",
   "options.gamma": "Luminusità",
   "options.gamma.default": "Default",
@@ -5324,6 +5477,7 @@
   "options.gamma.min": "Cubbu",
   "options.glintSpeed": "Vilucità dû Farfariddiari",
   "options.glintSpeed.tooltip": "Cuntrulla quantu viluci spicchìa u farfariddiari visivu supra l'uggetti ammagati.",
+																									  
   "options.glintStrength": "Furza dû Farfariddiari",
   "options.glintStrength.tooltip": "Cuntrulla quantu trasparinti jè u farfariddiari visivu supra l'uggetti ammagati.",
   "options.graphics": "Gràfica",
@@ -5378,13 +5532,20 @@
   "options.mouse_settings.title": "Impustazziuna dû Mouse",
   "options.mouseWheelSensitivity": "Sinzibilità ô Sbugghiuliari",
   "options.multiplayer.title": "Impustazziuna dû Murtijucaturi...",
+							  
   "options.narrator": "Narraturi",
   "options.narrator.all": "Liggi Tuttu",
   "options.narrator.chat": "Liggi Chat",
   "options.narrator.notavailable": "Nun dispunibili",
+								
   "options.narrator.system": "Liggi Sistema",
   "options.notifications.display_time": "Tempu di Nutifica",
   "options.notifications.display_time.tooltip": "Cuntrulla pi quantu tempu ca tutti i nutifichi sunnu visibbili ntô schermu.",
+					   
+									
+					 
+								  
+								
   "options.online.title": "Opziuna Online",
   "options.onlyShowSecureChat": "Ammustra Solu a Chat Sicura",
   "options.onlyShowSecureChat.tooltip": "Ammustra solu missaggi di l'autri jucatura ca pozzunu jèssiri virificati comu mmiati da iḍḍi e nun forru canciati.",
@@ -5393,6 +5554,9 @@
   "options.particles.all": "Tutti pari",
   "options.particles.decreased": "Arriddutti",
   "options.particles.minimal": "Mìnimi",
+										   
+									  
+									
   "options.prioritizeChunkUpdates": "Custrutturi dî Chunk",
   "options.prioritizeChunkUpdates.byPlayer": "Semi Blocking",
   "options.prioritizeChunkUpdates.byPlayer.tooltip": "Some actions within a chunk will recompile the chunk immediately. This includes block placing & destroying.",
@@ -5449,6 +5613,7 @@
   "pack.incompatible.confirm.title": "Si sicuru ca vo' carricari sta truscia?",
   "pack.incompatible.new": "(Fattu pi na virsiuni chiù nova di Minecraft)",
   "pack.incompatible.old": "(Fattu pi na virsiuni chiù vecchia di Minecraft)",
+								  
   "pack.openFolder": "Grapi a carpetta dî pacchi",
   "pack.selected.title": "Addijiutu",
   "pack.source.builtin": "inclusu",
@@ -5456,6 +5621,107 @@
   "pack.source.local": "lucali",
   "pack.source.server": "sirburi",
   "pack.source.world": "munnu",
+								 
+															   
+											   
+															   
+											   
+																
+												
+																  
+												  
+													   
+												
+															  
+																
+																 
+												
+																	   
+															
+															  
+										  
+																  
+												  
+																  
+												  
+															   
+											 
+																 
+																 
+																 
+												
+																	 
+												 
+											  
+											
+																 
+												
+															  
+										  
+																  
+												  
+																 
+												
+											 
+										  
+																
+											  
+													  
+											  
+															   
+															  
+																 
+												
+															   
+											
+														  
+													  
+															 
+										
+																  
+												  
+																 
+												
+																  
+												  
+															   
+												   
+																 
+												
+															  
+										  
+															  
+											  
+															
+														  
+															 
+											
+																  
+													 
+																		 
+																
+															   
+													   
+																	
+													  
+																
+													
+															   
+											
+														
+												  
+															  
+											  
+																  
+												  
+																   
+													
+											  
+											
+											 
+										  
+											   
+											  
   "painting.random": "Varianti a muzzu",
   "parsing.bool.expected": "N'aspittammu nu 'boolean'",
   "parsing.bool.invalid": "Boolean nun validu, n'aspittammu 'veru' o 'fausu' ma truvammu '%s'",
@@ -5475,7 +5741,15 @@
   "particle.notFound": "Particiḍḍa scognita: %s",
   "permissions.requires.entity": "N'entità jè nicissaria pi abbiari stu cumannu cca",
   "permissions.requires.player": "Nu jucaturi jè nicissariu pi abbiari stu cumannu cca",
+						 
+						   
+							
+						   
+						  
+						   
   "potion.whenDrank": "Quannu veni usatu:",
+								  
+								   
   "predicate.unknown": "Pridicatu scognitu: %s",
   "quickplay.error.invalid_identifier": "Nun potti truvari u munnu cu l'identificaturi ratu",
   "quickplay.error.realm_connect": "Nun potti junciri ô Realm",
@@ -5599,6 +5873,7 @@
   "selectWorld.gameMode.spectator": "Spittaturi",
   "selectWorld.gameMode.spectator.info": "Pò taliari, ma tuccari no.",
   "selectWorld.gameMode.spectator.line1": "Pò taliari, ma tuccari no",
+											 
   "selectWorld.gameMode.survival": "Supravivenza",
   "selectWorld.gameMode.survival.info": "Esplora nu munnu misteriusu unni custruisci, cogghi, fabbrichi, e cumbatti chî mostri.",
   "selectWorld.gameMode.survival.line1": "Cerca risursi, custruisci, guadagna",
@@ -6755,23 +7030,23 @@
   "telemetry.property.world_session_id.title": "ID Sissiuni dû Munnu",
   "test_block.error.missing": "A struttura d'assaiu nun àvi u bloccu %s",
   "test_block.error.too_many": "Troppi blocca %s",
-  "test_block.invalid_timeout": "Invalid timeout (%s) - must be a positive number of ticks",
+  "test_block.invalid_timeout": "Foratempu nun validu (%s) - àvi a jèssiri nu nummeru positivu di ticchi",
   "test_block.message": "Missaggiu:",
   "test_block.mode_info.accept": "Mudalità Accitta - Accitta a rinisciuta pi (na parti di) n'assaiu",
   "test_block.mode_info.fail": "Mudalità Fallisci - Fallisci l'assaiu",
-  "test_block.mode_info.log": "Log Mode - Log a message",
+  "test_block.mode_info.log": "Mudalità Cartularu - Scrivi nu missaggiu",
   "test_block.mode_info.start": "Mudalità d'accuminzu - L'iniziu di n'assaiu",
   "test_block.mode.accept": "Accitta",
   "test_block.mode.fail": "Fallutu",
-  "test_block.mode.log": "Log",
+  "test_block.mode.log": "Cartularu",
   "test_block.mode.start": "Accuminza",
   "test_instance_block.entities": "Entità:",
-  "test_instance_block.error.no_test": "Unable to run test instance at %s, %s, %s since it has an undefined test",
-  "test_instance_block.error.no_test_structure": "Unable to run test instance at %s, %s, %s since it has no test structure",
-  "test_instance_block.error.unable_to_save": "Unable to save test structure template for test instance at %s, %s, %s",
+  "test_instance_block.error.no_test": "Nun potti esecuiri l'istanza d'assaiu 'n %s, %s, %s pirchì àvi un assaiu nun difinitu",
+  "test_instance_block.error.no_test_structure": "Nun potti esecuiri l'istanza d'assaiu 'n %s, %s, %s pirchì nun àvi na struttura d'assaiu",
+  "test_instance_block.error.unable_to_save": "Nun potti sarbari u mudeḍḍu di struttura d'assaiu pi l'istanza d'assaiu 'n %s, %s, %s",
   "test_instance_block.invalid": "[nun validu]",
   "test_instance_block.reset_success": "Rinisciutu a rimpustari l'assaiu: %s",
-  "test_instance_block.rotation": "Rotation:",
+  "test_instance_block.rotation": "Vutaziuni:",
   "test_instance_block.size": "Dimensiuni dâ Struttura d'Assaiu",
   "test_instance_block.starting": "Accuminzannu l'assaiu %s",
   "test_instance_block.test_id": "ID di l'istanza d'assaiu",
@@ -6787,16 +7062,16 @@
   "test_instance.description.type": "Tipu: %s",
   "test_instance.type.block_based": "Assaiu basatu su Bloccu",
   "test_instance.type.function": "Assaiu di Funziuni Interna",
-  "test.error.block_property_mismatch": "Expected property %s to be %s, was %s",
-  "test.error.block_property_missing": "Block property missing, expected property %s to be %s",
-  "test.error.entity_property": "Entity %s failed test: %s",
-  "test.error.entity_property_details": "Entity %s failed test: %s, expected: %s, was: %s",
-  "test.error.expected_block": "Expected block %s, got %s",
-  "test.error.expected_block_tag": "Expected block in #%s, got %s",
-  "test.error.expected_container_contents": "Container should contain: %s",
-  "test.error.expected_container_contents_single": "Container should contain a single: %s",
-  "test.error.expected_empty_container": "Container should be empty",
-  "test.error.expected_entity": "Expected %s",
+  "test.error.block_property_mismatch": "N'aspittammu ca a propietà %s fussi %s, era %s",
+  "test.error.block_property_missing": "Propietà dû bloccu mancanti, n'aspittammu ca a propietà %s fussi %s",
+  "test.error.entity_property": "L'entità %s fallìu l'assaiu: %s",
+  "test.error.entity_property_details": "L'entità %s fallìu l'assaiu: %s, n'aspittammu: %s, era: %s",
+  "test.error.expected_block": "N'aspittammu u bloccu %s, appi %s",
+  "test.error.expected_block_tag": "N'aspittammu u bloccu 'n #%s, appi %s",
+  "test.error.expected_container_contents": "U cuntenituri àvi cunteniri: %s",
+  "test.error.expected_container_contents_single": "U cuntenituri àvi cunteniri un singulu: %s",
+  "test.error.expected_empty_container": "U cuntenituri àvi a jèssiri vacanti",
+  "test.error.expected_entity": "N'aspittammu %s",
   "test.error.expected_entity_around": "Expected %s to exist around %s, %s, %s",
   "test.error.expected_entity_count": "Expected %s entities of type %s, found %s",
   "test.error.expected_entity_data": "Expected entity data to be: %s, was: %s",
@@ -6807,9 +7082,9 @@
   "test.error.expected_entity_in_test": "Expected %s to exist in test",
   "test.error.expected_entity_not_touching": "Did not expect %s touching %s, %s, %s (relative: %s, %s, %s)",
   "test.error.expected_entity_touching": "Expected %s touching %s, %s, %s (relative: %s, %s, %s)",
-  "test.error.expected_item": "Expected item of type %s",
+  "test.error.expected_item": "N'aspittammu n'uggettu di tipu %s",
   "test.error.expected_items_count": "Expected %s items of type %s, found %s",
-  "test.error.fail": "Fail conditions met",
+  "test.error.fail": "Ragghinciuti cundiziuna di falluta",
   "test.error.invalid_block_type": "Unexpected block type found: %s",
   "test.error.missing_block_entity": "Missing block entity",
   "test.error.position": "%s at %s, %s, %s (relative: %s, %s, %s) on tick %s",
@@ -6845,8 +7120,10 @@
   "title.multiplayer.other": "Murtijucaturi (Sirburi di terzi)",
   "title.multiplayer.realms": "Murtijucaturi (Realms)",
   "title.singleplayer": "Monojucaturi",
+								   
   "translation.test.complex": "Prefissu, %s%2$s attorna %s e %1$s 'nfini %s e macari %1$s attorna!",
   "translation.test.invalid": "salutamu %",
+									 
   "translation.test.invalid2": "salutamu %  s",
   "translation.test.none": "Salutamu, munnu!",
   "translation.test.world": "munnu",
