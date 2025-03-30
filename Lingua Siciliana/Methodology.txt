@@ -1,0 +1,23 @@
+ORTOGRAPHY:
+The main reference is the standard set by the Cademia Siciliana, though instances of deviation may be the result of either stylistical choice or simply something missed during proofreading, some common occurrences are:
+ḍḍ: like in beḍḍa, in some terms it has been used to Sicilianize the ll sound of adapted terms (e.g. Armadillo - Armadiḍḍu);
+circumflex stress when contracting constructs, like cû instead of cun lu, or câ instead of cun la,
+ci: replaces the "fl" in other adapted words (not just from Latin), like in ciuri, ciumi etc.
+v vs. b: I applied the replacement in some instances to replicate the more common usage in some communities (like mine), as such, vastuni replaces bastuni, carvuni replaces carbuni, vutti replaces butti etc.
+
+The l in articles has been omitted to be closer to the spoken language, thus instances of lu, la and li have been rendered as u, a and i, without the use of an apostrophe to avoid cluttering the text.
+
+I may make an alternate version of the Language pack adopting two suggestions from the Kademia dû Krivu, aka:
+Replacing the ci sound of ciuri and ciumi with χ, since there is an historical basis to reintroduce the letter and I believe it would increase the distinctiveness of the language (χiuri, χiumi and ambaχiaturi sound rather cool).
+Replacing hard cs with k, which seems to give a more orderly feeling to contracted prepositions, case in point cû, câ, chî turning into kû, kâ kî, while, of course also creating more distinctiveness, an interesting side effect would be words like bloccu becoming bloku or blokku, making their appearance closer to the Germanic etymology of the world (from my knowledge)
+
+VOCABULARY:
+The choice of words is mostly dictated by my own stylistic tastes, the base of translation is the English version, some terms and expressions have been carried over from the official translation (https://crowdin.com/translate/minecraft/10038/enus-scn), while also following the untranslatable guidelines in https://docs.google.com/spreadsheets/d/1xxDvR2MrPUaxXwNfn-oJX-fBerEsZkfo/edit#gid=810030519, terms have been sourced mainly from "Nuovo Vocabolario Siciliano-Italiano" by Antonino Traina, while also referencing "Supplemento ai vocabolari siciliani", http://www.salviamoilsiciliano.com/come-si-dice/dizionario/, and at times deferring to simple Google searches, there will be instances of word choices that can be questioned due to preferring unfamiliar translations that at the time seemed to work in context but may not be either understood by most or I misunderstood their usage. Whenever a variety is more local, the choice has been biased by exposure to the dialects of the south-east (e.g. Magnu instead of Granni to translate big)
+
+In terms of words not present in these sources, or that I thought were lacking in effect, I invoked poetic license and attempted creating new terms, which follows this process:
+
+1 - Using an existing term in a more figurative way, turning verbs into nouns and vice-versa (e.g. Sneak -> Sirpiari, to move like a snake)
+2 - Attempt at a compound of existing Sicilian words (e.g. Deepslate -> Balatafunna, Clipboard -> Ciappafogghiu)
+3 - Adaptation of a term present in French, Spanish, Greek, Latin or Arab if the term has an origin from before the 1800s, to mirror the cultural influences of that period (e.g. Fletcher -> Fileccieri), falling back to adapting from Italian if the term is either too unfamiliar, looks like gibberish or has an origin after the 1800s. 
+
+These instances of new terms have their own section in the glossary, with an explanation on the process used and possible alternatives.

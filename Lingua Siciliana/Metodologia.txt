@@ -1,0 +1,24 @@
+ORTOGRAFIA:
+Il riferimento principale è lo standard di Cademia Siciliana, deviazioni da esso sono il risultato di scelte stilistiche o una mancata rilettura, alcune scelte comuni sono:
+ḍḍ: come in beḍḍa, in alcuni termini è stato usato per Sicilianizzare il suono ll di alcuni termini adattati (e.g. Armadillo - Armadiḍḍu)
+È stato usato l'accento circumflesso per contrarre gli articoli, come cû invece di cun lu, o câ invece di cun la,
+ci: sostituisce "fl" in altre parole adattate, con uso simile a ciuri, ciumi etc.
+v vs. b: Ho applicato la sostituzione in alcuni casi per replicare l'uso comune di alcune comunità (come la mia), vastuni - bastuni, carvuni - carbuni, etc.
+
+La l negli articoli è stata omessa per essere più simile al parlato, quindi lu, la e li sono u, a e i, senza usare apostrofi prima per non rendere il testo disordinato.
+
+Ho nei piani un'ulteriore versione che segue due guidelinea della Kademia dû Krivu, ovvero:
+Sostituire il ci di ciuri e ciumi with χ, dato il precedente storico del suo uso e per aumentare la distinzione linguistica (mi piace come sono scritti χiuri, χiumi and ambaχiaturi).
+Sostituire le c dure con k, il che permette di rimuovere le ch dal plurale lasciando solo k, e con l'effetto collaterale che alcune parole come bloccu diventerebbero bloku o blokku, accidentalmente rendendole più vicine alle lingue Germaniche.
+
+VOCABULARY:
+La scelta delle parole è dettato dai miei gusti stilistici, la base usata è l'Inglese, alcuni termini ed espressioni derivano dalla traduzione ufficiale (https://crowdin.com/translate/minecraft/10038/enus-scn), seguendo anche le guidelinea per le parole da non tradurre in https://docs.google.com/spreadsheets/d/1xxDvR2MrPUaxXwNfn-oJX-fBerEsZkfo/edit#gid=810030519, i termini sono stati presi principalmente da "Nuovo Vocabolario Siciliano-Italiano" di Antonino Traina, qualche riferimento a "Supplemento ai vocabolari siciliani", http://www.salviamoilsiciliano.com/come-si-dice/dizionario/, e semplici ricerche su Google, ci saranno delle situazioni per cui le scelte di termini possono essere discutibili per via di traduzioni meno familiari che al momento sembravaano funzionare ma che potrebbero essere incomprensibili per molti o io stesso non ne ho capito l'uso.
+Per quanto riguarda le varietà locali, la scelta è stata viziata dall'esposizione ai dialetti sud-orientali (Da qui l'uso di magnu invece che granni per dire grande).
+
+Per quanto riguarda parole non presenti nelle fonti, o che ho trovato insufficienti, ho invocato la licenza poetica e ho provato a creare nuovi termini secondo queste priorità:
+
+1 - Uso di un termine esistente in modo figurato, verbi trasformati in nomi e vice-versa (e.g. Sneak -> Sirpiari, furtivo come un serpente)
+2 - Composto di parole Siciliane (e.g. Deepslate -> Balatafunna, Clipboard -> Ciappafogghiu)
+3 - Adattamento di un termine Francese, Spagnolo, Latino (anche Greco e Arabo nelle intenzioni) per termini prima del 1800, per rispecchiare un po' le influenze d'epoca (e.g. Fletcher -> Fileccieri), adattando dall'Italiano per termini troppo poco familiari, troppo strani, o con origine dopo il 1800 (a volte ho adattato dall'inglese quando sembrava appropriato). 
+
+Questi termini sono contenuti in una sezione del glossario, dove viene spiegato il processo e possibili alternative.
