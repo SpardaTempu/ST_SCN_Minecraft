@@ -1,0 +1,17 @@
+{
+  "pack": {
+	"supported_formats":[46,55],
+    "pack_format": 55,
+    "description": [
+			{"text":"Pachettu di lingua Siciliana\n","color":"#ffffff"},
+			{"text":"Attualizzata pi: ","color":"#e0e0e0"},
+			{"text":"v1.21.5\n","color":"#e0cccc"}
+			]
+  },
+  "language": {
+	"scn": {
+		"name": "Sicilianu",
+		"region": "Sicilia"
+	}
+  }
+}
